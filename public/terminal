@@ -1,0 +1,10 @@
+           /////this is to start terminal by creating a new folder////
+
+mkdir group-chat-app
+cd group-chat-app
+npm init -y
+npm install express socket.io
+
+  at lsat type 'node server.js' oin  terminalt to start server
+  http://localhost:3000
+
